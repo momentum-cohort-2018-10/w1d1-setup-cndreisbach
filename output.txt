@@ -1,0 +1,4 @@
+14:00 $ brew --version
+Homebrew 1.8.0-60-g3e44ed6
+Homebrew/homebrew-core (git revision bcd3; last commit 2018-10-29)
+Homebrew/homebrew-cask (git revision 7f23b; last commit 2018-10-29)
